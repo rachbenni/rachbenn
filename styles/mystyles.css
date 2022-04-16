@@ -1,0 +1,19 @@
+.resumetitle {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .resumebullets {
+    font-weight: normal;
+    font-size: 15px;
+  }
+  .summary {
+    text-align: center;
+  }
+  
+  .links {
+    text-align: center;
+    font-size: 15px;
+  }
+  .anchor {
+      color: white
+  }

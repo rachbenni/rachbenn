@@ -1,0 +1,48 @@
+/* Rachel Bennion April 15 2022 */
+body {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.home {
+    top: 7px;
+    left: 7px;
+    right: 7px;
+    height: 100px;
+    font-family: sans-serif;
+    font-size:20px;
+    color: lightsteelblue
+}
+.resume {
+    color: lightsteelblue;
+}
+footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    font-size: 9px;
+    background-color: black;
+    color: lightsteelblue
+    
+}
+header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: right;
+    background-color: black;
+}
+body {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    text-align:center;
+    background-color: lightsteelblue
+}
+
+.tableau {
+    font-size: 50px;
+}
